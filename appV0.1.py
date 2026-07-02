@@ -85,7 +85,7 @@ else:
 
             Systolic = st.number_input("Enter Systolic BP", min_value=50, max_value=250)
             Diastolic = st.number_input("Enter Diastolic BP", min_value=30, max_value=180)
-            if st.button("**Analye BP**"):
+            if st.button("**Analyse BP**"):
 
                 #Defining a function for MAP
 
